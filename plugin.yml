@@ -1,0 +1,6 @@
+name: Craftshark VoteCheck
+main: me.shawshark.votecheck.main
+version: 1.0
+
+commands:
+  votecheck:
